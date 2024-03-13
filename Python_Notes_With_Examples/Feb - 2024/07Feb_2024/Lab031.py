@@ -1,0 +1,1 @@
+#ternary operatio will be taugh later
