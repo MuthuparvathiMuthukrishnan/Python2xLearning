@@ -1,0 +1,7 @@
+Create Booking Testcase
+<class 'str'>
+<class 'dict'>
+<class 'dict'>
+d4e443cafdc63c3
+{'Content-Type': 'application/json', 'Cookie': 'token=d4e443cafdc63c3'}
+HTTPSConnectionPool(host='restful-booker.herokuapp.com3936', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000028F501621B0>: Failed to resolve 'restful-booker.herokuapp.com3936' ([Errno 11001] getaddrinfo failed)"))
